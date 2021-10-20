@@ -1,1 +1,1 @@
-# Clean Template TypeScript
+# Template TypeScript

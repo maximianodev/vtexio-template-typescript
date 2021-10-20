@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "link": "vtex link",
+    "relink": "vtex unlink --all && vtex link --clean"
+  }
+}

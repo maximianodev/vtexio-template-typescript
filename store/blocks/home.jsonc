@@ -1,0 +1,21 @@
+{
+  "store.home": {
+    "blocks": [
+      "rich-text",
+      "greeting"
+    ]
+  },
+  "rich-text": {
+    "props": {
+      "text": "MAX LAB",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  },
+  "greeting": {
+    "props": {
+      "name": "Max"
+    }
+  }
+}
